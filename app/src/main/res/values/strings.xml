@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Let\'sChat</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="Create_New_Account">Create New Account</string>
+    <string name="creat_my_account">Creat My Account</string>
+    <string name="signout">SignOut</string>
+    <string name="all_users">All Users</string>
+    <string name="setting">Setting</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+    <string name="login">LOGIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_my_account">create</string>
+    <string name="total_friends">Total Friends</string>
+</resources>
