@@ -49,7 +49,7 @@ public class ChatsFragment extends Fragment {
 
         return view;
     }
-    
+
 }
 
 
